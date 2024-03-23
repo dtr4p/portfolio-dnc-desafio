@@ -1,0 +1,14 @@
+:root {
+  font-family: Poppins;
+  font-weight: 400;
+
+  color-scheme: light dark;
+  color: aliceblue;
+  background-color: #0F1624;;
+
+  font-synthesis: none;
+  text-rendering: optimizeLegibility;
+  -webkit-font-smoothing: antialiased;
+  -moz-osx-font-smoothing: grayscale;
+}
+

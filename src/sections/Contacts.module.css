@@ -1,0 +1,22 @@
+.contactsSection{
+    display: flex;
+    justify-content: space-around;
+}
+.contactsSection ul{
+    list-style: none;
+    display: flex;
+    align-items: center;
+}
+.contactsSection a{
+    color: aliceblue !important;
+    margin-right: 50px !important;
+}
+.contactsSection li{
+    margin-right: 100px;
+}
+.contactsSection:first-child{
+    margin-left: 300px;
+}
+.contactsSection section{
+    padding-left: 220px;
+}

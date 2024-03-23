@@ -1,0 +1,26 @@
+.projectSection h1{
+    padding-left: 200px;
+    font-size: 40px;
+    font-weight: 600;
+}
+.cards{
+    display: flex;
+    justify-content: space-around;
+    padding-left: 200px;
+    padding-right: 200px;
+    padding-bottom: 50px;
+}
+.title{
+    display: flex;
+    align-items: center;
+}
+.title h1{
+    margin-right: 10px;
+}
+.arrow:hover{
+    transition-duration: 0.5s;
+    cursor: pointer;
+}
+.arrow{
+    width: 30px;
+}

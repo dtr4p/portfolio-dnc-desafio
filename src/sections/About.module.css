@@ -1,0 +1,14 @@
+.aboutMe h1{
+    padding-left: 200px;
+    font-size: 40px;
+    font-weight: 600;
+}
+.aboutMe p{
+    padding-left: 240px;
+    font-size: 18px;
+    font-weight: 300;
+}
+.aboutMe section{
+    margin-left: 280px;
+    padding-top: 20px;
+}

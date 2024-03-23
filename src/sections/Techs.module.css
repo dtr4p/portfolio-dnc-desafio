@@ -1,0 +1,26 @@
+.skills{
+    background-color: rgb(148,93,214) 50%;
+    background: linear-gradient(90deg, rgba(148,93,214,1) 0%, rgba(105,120,209,1) 33%, rgba(19,119,199,1) 100%);    
+    text-align: center;
+    padding: 10px 20px 40px 20px;
+    border-radius: 20px;
+    max-width: 800px;
+    margin: 0 auto;
+}
+.skills h1{
+    font-size: 35px;
+}
+.skills div{
+    justify-content: space-around;
+    display: flex;
+}
+.skills img{
+    transition-duration: 0.8s;
+    width: 150px;
+}
+.skills img:hover{
+    cursor: pointer;
+    filter: drop-shadow(0px 0px 8px rgb(134, 198, 255));
+    scale: 120%;
+    transition-duration: 0.8s;
+}
