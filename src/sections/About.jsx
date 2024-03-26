@@ -44,7 +44,7 @@ function About(){
             <p>Sou um desenvolvedor front-end, e minha missão é criar<br/>
                aplicações e sites modernos, responsivos, e o mais importante,<br/>
                que sejam a sua cara! E aí, vamos criar juntos?</p>
-            <section><Button1 text='Saber mais'/></section>
+                <section> <a target='_blank' href='https://api.whatsapp.com/send/?phone=5551993281831&text&type=phone_number&app_absent=0'><Button1 text='Saiba mais'/></a></section>
         </div>
     )
 }
