@@ -23,7 +23,7 @@ function Projects() {
     return (
         <div className={style.projectSection} id="projects">
             <div className={style.title}>
-                <h1>Projetos</h1>
+                <h1 onClick={toggleShow}>Projetos </h1>
                 <img 
                     src={arrow} 
                     onClick={toggleShow} 

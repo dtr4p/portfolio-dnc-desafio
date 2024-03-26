@@ -16,7 +16,9 @@
 }
 .title h1{
     margin-right: 10px;
+    cursor: pointer;
 }
+
 .arrow:hover{
     transition-duration: 0.5s;
     cursor: pointer;
