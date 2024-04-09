@@ -7,6 +7,7 @@
     font-weight: 600;
     font-family: Poppins;
     transition-duration: 0.5s;
+    color: aliceblue;
 }
 .button1:hover{
     scale: 110%;
