@@ -9,9 +9,9 @@ function App() {
 
 
   return (
-    <div>
+    <div className='app'>
         <Navbar/>
-        <br/><br/>  
+        <br/><br/><br/><br/>
         <About/>
         <br/><br/><br/><br/>
         <Techs/>
